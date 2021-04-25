@@ -55,7 +55,8 @@ int main()
 	char command;
 	int key;
 	headNode* headnode=NULL;
-
+	
+	printf("[----- [이연규] [2018038038] -----]\n\n\n");
 	do{
 		printf("----------------------------------------------------------------\n");
 		printf("                     Doubly Linked  List                        \n");
